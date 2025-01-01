@@ -23,5 +23,4 @@ This script analyzes a given website to extract:
    pip install -r requirements.txt
 
 ## Usage
-
-   python wayBackAnalyzer.py <URL> --max-depth 3 --max-snapshots 15
+   `python wayBackAnalyzer.py <URL> --max-depth 3 --max-snapshots 15`
